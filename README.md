@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-![Employee Data](./employee-data.png)
+![Employee Data](<./employee-data.png>)
 
 
 The **Excel Employee Management System** is an Excel-based project developed using **Microsoft Excel and VBA (Visual Basic for Applications)**.
