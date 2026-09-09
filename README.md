@@ -6,6 +6,8 @@
 
 ## 📌 Project Overview
 
+![Employee Data](screenshots/Employee-data.png)
+
 The **Excel Employee Management System** is an Excel-based project developed using **Microsoft Excel and VBA (Visual Basic for Applications)**.
 
 The project is designed to store and manage employee information in a structured Excel worksheet. VBA macros are included to provide automation and make employee data management easier.
