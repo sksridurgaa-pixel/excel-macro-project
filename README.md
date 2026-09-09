@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-![Employee Data](./screenshots/Employee-data.png)
+![Employee Data](./screenshots/employee-data.png)
 ![Indian Healthcare Intelligence Dashboard](<Indian Healthcare Intelligence Dashboard .png>)
 
 The **Excel Employee Management System** is an Excel-based project developed using **Microsoft Excel and VBA (Visual Basic for Applications)**.
